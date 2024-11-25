@@ -1,0 +1,11 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "ZTM exercise background generator\r Generates a gradient based on 2 user inputs\r Generates a random gradient\r Displays result on the page",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
